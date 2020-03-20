@@ -1,7 +1,7 @@
 # Project: Futures of Cordova
 # _Proyecto: Futuros de Córdoba_
 
-This project is inspired by the thoughts of a relative, who told me about how the neighbourhood in which they work as an English professor, is crowded by Academies of Lenguages. That neighbourhood happens to be also one of the most wealthy in the city of Cordova. That seems to be in contrast with the situation in other neighbourhoods which are not so wealthy. Instead, one observes, when walking on the streets of those neighbourhoods that are not so wealthy, the opening of tens of new locals dedicated to gambling.
+This project is inspired by the thoughts of a relative, who told me about how the neighbourhood in which they work as an English professor, is crowded by Academies of Languages. That neighbourhood happens to be also one of the most wealthy in the city of Cordova. That seems to be in contrast with the situation in other neighbourhoods which are not so wealthy. Instead, one observes, when walking on the streets of those neighbourhoods that are not so wealthy, the opening of tens of new locals dedicated to gambling.
 
 The hypothesis of this project is there will be more Languages academies in neighbourhoods that are wealthier. In other neighbourhoods, people might be putting their money in gambling. Finding out why that situation, if true, happens, is out of the scope of the project. Nonwithstanding, the information extracted from the project might be useful for studying that phenomenon.
 
