@@ -1,14 +1,20 @@
 # Project: Futures of Cordova
-# _Proyecto: Futuros de Córdoba_
 
-This project is inspired by the thoughts of a relative, who told me about how the neighbourhood in which they work as an English professor, is crowded by Academies of Languages. That neighbourhood happens to be also one of the most wealthy in the city of Cordova. That seems to be in contrast with the situation in other neighbourhoods which are not so wealthy. Instead, one observes, when walking on the streets of those neighbourhoods that are not so wealthy, the opening of tens of new locals dedicated to gambling.
 
-The hypothesis of this project is there will be more Languages academies in neighbourhoods that are wealthier. In other neighbourhoods, people might be putting their money in gambling. Finding out why that situation, if true, happens, is out of the scope of the project. Nonwithstanding, the information extracted from the project might be useful for studying that phenomenon.
+Futures of Cordoba
+ Applied Data Science Capstone Project
+ 
 
-This Project is my Final Assignment for the IBM Data Science Professional Certificate: https://www.coursera.org/professional-certificates/ibm-data-science.
+This is the final project for the completion of the IBM Data Science Professional Certificate. 
 
-_Este proyecto está inspirado en los comentarios de una persona cercana a mí, que me habla de cómo en el barrio donde trabaja dando clases de inglés hay muchas academias de idiomas. Este barrio es también uno de los más adinerados de la ciudad de Córdoba. Esta situación parece estar en contraste con la de otros barrios no tan favorecidos. En lugar de esto, caminando por la calle, uno puede observar como decenas de locales de apuestas van abriéndose en estos otros barrios._
+The current idea for this project is considerably different from the one that was being considered before. That change has been caused by the considerable effect that the global COVID-19 Pandemic is causing right now and by the possibility that my country, Spain, will enter a recession again. For that reason, the starting point of that project is a very personal one. However, this will not prevent me from taking a point of view as objective as possible. If there is any inconsistency in the project, it would be of great help to know it so that it can be corrected.
 
-_La hipótesis de este proyecto es que se puede demostrar que hay más academias de idiomas en barrios adinerados de Córdoba que en otros que no lo son tanto. En otros barrios, los vecinos parecen estar poniendo su dinero en el juego. El por qué de esta situación, si realmente es cierta, ocurre, está fuera del alcande de este proyecto. No obstante, la información extraída del mismo puede ser útil para averiguarlo._
 
-_Este proyecto es mi entrega final para el Certificado Profesional de Ciencia de Datos de IBM: https://www.coursera.org/professional-certificates/ibm-data-science
+Table of Contents
+
+Introduction
+Methodology
+Analysis
+Results and Discussion
+Conclusion
+Bibliography
